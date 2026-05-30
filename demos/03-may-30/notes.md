@@ -1,0 +1,2 @@
+- In WHERE clause, NULL = NULL, is false
+- In WHERE clause, NULL <=> NULL, is true
